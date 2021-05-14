@@ -62,8 +62,8 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 ![Profile views](https://komarev.com/ghpvc/?username=likucs&color=blue&style=flat-square&label=Profile+Views)
-<p align="center"><a href="https://github.com/likucs"><img src="https://github-readme-stats.vercel.app/api?username=Prabhasha-p&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/likucs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhasha-p&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/likucs"><img src="https://github-readme-stats.vercel.app/api?username=likucs&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/likucs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likucs&theme=radical&layout=compact"></a></p> 
 
 
 
