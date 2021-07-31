@@ -1,6 +1,8 @@
 <!-- Your title -->
 ## Hi, I'm Likucs , a Developer from Odisha (India 🇮🇳). <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
 ![alt text](https://github.com/likucs/likunewprof/blob/master/Copy%20of%20CyberBoyAyush%20Banner%20HD(1).png)](https://js-portfolio-phi.vercel.app/)
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
